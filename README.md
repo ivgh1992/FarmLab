@@ -8,6 +8,8 @@ The following image explains the structure of FarmLab:
 Here are some useful links:
 
 https://www.thespaghettidetective.com/docs/open-source/ ---> Creating a TSD server.
+
 https://octoprint.org/download/ ---> Download OctoPrint.
+
 https://community.octoprint.org/t/filament-manager-plugin-how-to-setup-postgresql-database/10698 ---> PostgreSQL server for the "Filament Manager" plugin.
 
