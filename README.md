@@ -13,3 +13,7 @@ https://octoprint.org/download/ ---> Download OctoPrint.
 
 https://community.octoprint.org/t/filament-manager-plugin-how-to-setup-postgresql-database/10698 ---> PostgreSQL server for the "Filament Manager" plugin.
 
+https://plugins.octoprint.org/plugins/PrintJobHistory/ ---> "Print Job History" plugin.
+
+https://plugins.octoprint.org/plugins/filamentmanager/ ---> "Filament Manager" plugin.
+
